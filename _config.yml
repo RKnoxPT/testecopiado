@@ -5,7 +5,7 @@ description: "O Local Perfeito para encontrar o seu Novo Relógio!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 url: 
-baseurl:  / #/ para GHPages
+baseurl: # / #/ para GHPages
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
